@@ -3,7 +3,7 @@ import Web from './routes/Web'
 
 const App = () => {
   return (
-    <div className="h-full">
+    <div className="h-full bg-white filter backdrop-blur-lg">
      <Web />
     </div>
   )
