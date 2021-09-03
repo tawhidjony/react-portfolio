@@ -3,6 +3,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      backgroundImage: theme => ({
+          'main-bg': "url('/src/assets/images/bg.jpg')",
+          'main-bg-1': "url('/src/assets/images/bg1.jpg')",
+      }),
       colors:{
         blu: {
           light: '#ff00bc',
