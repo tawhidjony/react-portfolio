@@ -4,8 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-          'main-bg': "url('/src/assets/images/bg.jpg')",
-          'main-bg-1': "url('/src/assets/images/bg1.jpg')",
+          'svg-1': "url('/src/assets/images/bg-svg.svg')",
       }),
       colors:{
         blu: {

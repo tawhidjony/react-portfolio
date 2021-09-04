@@ -5,7 +5,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <div className="h-screen max-h-screen p-10 bg-center bg-cover bg-main-bg-1">
+    <div className="h-screen max-h-screen p-10 bg-center bg-cover bg-svg-1">
       <App />
     </div>
   </React.StrictMode>,

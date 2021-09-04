@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .backdrop-filter{
-    backdrop-filter: blur(16px);
+    backdrop-filter: blur(25px);
 }
